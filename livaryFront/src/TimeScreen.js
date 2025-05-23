@@ -235,7 +235,7 @@ const styles = StyleSheet.create({
     backgroundColor: colors.white,
   },
   previewImage: {
-    width: '100%',
+    width: 100,
     height: 100,
     borderRadius: 6,
     marginBottom: 10,
