@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/OleoScript-Regular.ttf",
+      "sha1": "ab4a01f1970629a256a0b7fae61527179d929750"
+    },
+    {
+      "path": "assets/fonts/Ownglyph_corncorn.ttf",
+      "sha1": "031e02fc6f56dded1fe2dbdf9906994ac4702f78"
+    }
+  ]
+}
